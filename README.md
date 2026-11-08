@@ -87,6 +87,6 @@ detekcija-pada/
 
 ## 👨‍🎓 Autor
 
-**Ime i prezime:** Dino Lugomer 
-**Fakultet:** Fakultet organizacije i informatike, Varaždin  
+**Ime i prezime:** Dino Lugomer <br>
+**Fakultet:** Fakultet organizacije i informatike, Varaždin  <br>
 **Akademska godina:** 2026./2027.
