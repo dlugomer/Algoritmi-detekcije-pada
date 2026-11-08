@@ -59,7 +59,7 @@ znacajke = [
 X = rezultati[znacajke]
 model = DecisionTreeClassifier(max_depth=2, min_samples_leaf=2, random_state=42)
 pred_stablo = cross_val_predict(model, X, stvarne_klase, cv=LeaveOneOut())
-model.fit(X, stvarne_klase)  # Zavrsni model samo za prikaz pravila.
+model.fit(X, stvarne_klase)  
 
 # 4. usporedba algoritama
 def izracunaj_metrike(predvidanja):
@@ -99,4 +99,3 @@ fig.tight_layout()
 fig.savefig(MAPA / 'usporedba_akceleracije.png', dpi=170)
 plt.close(fig)
 
-print('\nGotovo! Rezultati i graf spremljeni su u mapu projekta.')
