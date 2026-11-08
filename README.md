@@ -40,7 +40,7 @@ Za testiranje je korištena metoda **Leave-One-Out**, pri kojoj se model trenira
 |---|---:|---:|
 | Točnost | 83,33 % | 100 % |
 | Preciznost | 66,67 % | 100 % |
-| Odziv (Recall) | 100 % | 100 % |
+| Odziv | 100 % | 100 % |
 | Lažni alarmi | 5 | 0 |
 
 Rezultati se odnose na 30 kontroliranih mjerenja i ne predstavljaju potvrdu učinkovitosti sustava pri stvarnim padovima ljudi.
