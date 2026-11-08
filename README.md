@@ -5,7 +5,7 @@
 
 Projekt je izrađen u sklopu seminarskog rada s ciljem usporedbe dvaju pristupa detekciji pada: **pragovnog algoritma** i algoritma strojnog učenja **Decision Tree**.
 
-Za istraživanje su korišteni podaci akcelerometra pametnog telefona prikupljeni pomoću aplikacije **phyphox**.
+Za istraživanje su korišteni podaci akcelerometra pametnog telefona prikupljeni pomoću aplikacije **phyphox**
 
 ## 📊 Prikupljanje podataka
 
