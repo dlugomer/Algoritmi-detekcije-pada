@@ -85,7 +85,7 @@ detekcija-pada/
     └── Podizanje1.zip ... Podizanje4.zip
 ```
 
-## 👨‍🎓 Autor
+##  Autor
 
 **Ime i prezime:** Dino Lugomer <br>
 **Fakultet:** Fakultet organizacije i informatike, Varaždin  <br>
