@@ -1,13 +1,13 @@
 
 # Algoritmi detekcije pada: prag naspram strojnog učenja
 
-## 📌 Opis projekta
+##  Opis projekta
 
 Projekt je izrađen u sklopu seminarskog rada s ciljem usporedbe dvaju pristupa detekciji pada: **pragovnog algoritma** i algoritma strojnog učenja **Decision Tree**.
 
 Za istraživanje su korišteni podaci akcelerometra pametnog telefona prikupljeni pomoću aplikacije **phyphox**
 
-## 📊 Prikupljanje podataka
+##  Prikupljanje podataka
 
 Ukupno je prikupljeno **30 snimki**:
 
@@ -20,7 +20,7 @@ Ukupno je prikupljeno **30 snimki**:
 
 Snimke su spremljene u ZIP datotekama koje sadrže izvorne CSV podatke o akceleraciji.
 
-## ⚙️ Korišteni algoritmi
+##  Korišteni algoritmi
 
 ### 1. Pragovni algoritam
 
@@ -34,7 +34,7 @@ Algoritam strojnog učenja analizira različite značajke akceleracije i na teme
 
 Za testiranje je korištena metoda **Leave-One-Out**, pri kojoj se model trenira na 29 snimki, a testira na preostaloj.
 
-## 📈 Rezultati
+##  Rezultati
 
 | Metrika | Pragovni algoritam | Decision Tree |
 |---|---:|---:|
@@ -45,7 +45,7 @@ Za testiranje je korištena metoda **Leave-One-Out**, pri kojoj se model trenira
 
 Rezultati se odnose na 30 kontroliranih mjerenja i ne predstavljaju potvrdu učinkovitosti sustava pri stvarnim padovima ljudi.
 
-## 💻 Pokretanje programa
+##  Pokretanje programa
 
 Za pokretanje programa potrebno je instalirati Python i potrebne biblioteke.
 
@@ -65,7 +65,7 @@ python analiza_padova.py
 
 Program obrađuje podatke, uspoređuje algoritme i generira rezultate.
 
-## 📁 Struktura projekta
+##  Struktura projekta
 
 ```text
 detekcija-pada/
